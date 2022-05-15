@@ -29,4 +29,4 @@ Sample Output 1
 120
 
 Direct link to the problem:https://www.codechef.com/problems/PCJ18B
-Direct link to the submission:https://www.codechef.com/submit/PCJ18B
+Direct link to the submission:https://www.codechef.com/viewsolution/64848438
